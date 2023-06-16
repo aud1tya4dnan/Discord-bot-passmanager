@@ -114,4 +114,4 @@ async def setmasterpassword(ctx, master_password):
 async def on_command(ctx):
     await ctx.message.delete()
 
-bot.run('MTExMjc0MzU1MTg0ODE2MTQwMA.Gv3yuu.Aqtc5YQpwvWrW7QdXZeFJQL_AMD8Erg32JMfgk')
+bot.run('BOT_TOKEN')
